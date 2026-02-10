@@ -1,0 +1,12 @@
+body {
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+}
+
+#ascii {
+    font-size: 6px;
+    line-height: 6px;
+    white-space: pre;
+}
