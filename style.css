@@ -1,0 +1,30 @@
+body {
+    background: #000;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 15px;
+    color: #00ffcc;
+}
+
+#controls {
+    margin: 10px 0;
+}
+
+input {
+    margin: 5px;
+}
+
+#ascii {
+    font-size: 6px;
+    line-height: 6px;
+    white-space: pre;
+    overflow-x: auto;
+    border: 1px solid #333;
+    padding: 10px;
+    background: black;
+}
